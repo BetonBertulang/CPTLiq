@@ -1,5 +1,0 @@
-Metadata-Version: 2.1
-Name: cptliq
-Version: 0.1.0
-Summary: CPT-based liquefaction evaluation (Robertson & Wride 1998 / Youd et al. 2001)
-Requires-Python: >=3.9
